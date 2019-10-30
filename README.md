@@ -1,2 +1,3 @@
-# nodejs-api-anorak2084
-nodejs-api-anorak2084 created by GitHub Classroom
+Nome: Jônatas Pinehiro Mendes
+Idade: 18 anos
+Turma/Curso: 3º informatica A
